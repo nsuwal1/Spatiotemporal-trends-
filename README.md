@@ -68,7 +68,7 @@ Navigate to the permanent service for mean sea level website URL: [Permanent Ser
 _Figure S7 PSMSL home page_
 
 
-![Figure S8 Campbell River station details and from monthly data button monthly sea surface height.](Figure%20S8%20Campbell%20River%20station%20details%20and%20from%20monthly%20data%20button%20monthly%20sea%20surface%20height%20can%20be%20downloaded.png)
+![Figure S8 Campbell River station details and from monthly data button monthly sea surface height](Figure%20S8%20Campbell%20River%20station%20details%20and%20from%20monthly%20data%20button%20monthly%20sea%20surface%20height%20can%20be%20downloaded.png)
 _Figure S8 Campbell River station details and from monthly data button monthly sea surface height_
 
 ### Data Processing
