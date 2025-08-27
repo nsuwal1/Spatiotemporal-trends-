@@ -1,2 +1,2 @@
-# Spatiotemporal-trends-
+# Spatiotemporal-trends
 Data and code 
