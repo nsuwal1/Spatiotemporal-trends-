@@ -19,38 +19,38 @@ The oyster norovirus outbreak data were collected from the US Centers for Diseas
 #### Water temperature
 Navigate to the USGS website URL: Water Resources of the United States—National Water Information System (NWIS) Mapper. This is the primary source for downloading the necessary insitu data such as water temperature, gage height, discharge, and many other for United States. The present study used USGS station number 07374526 for representative water temperature for Louisiana coast. 
 
-![Figure S1 USGS website home page](Figure_S1_USGS_homepage.png)
+![Figure S1 USGS website home page](../Figure%20S1%20USGS%20website%20home%20page.jpg)
 
 At home page of USGS website enter the site numbers and click enter, then it will be taken to the station data. 
 
-![Figure S2 Station details with available data range.](Figure_S2_Station_details.png)
+![Figure S2 Station details with available data range.](../Figure%20S2%20Station%20details%20with%20available%20data%20range.jpg)
 
 #### Precipitation and Solar Radiation
 Navigate to the Nasa Power website URL: NASA POWER | Data Access Viewer (DAV). From this website, the required solar radiation and precipitation can be downloaded. 
 
-![Figure S3 Nasa Power website home page with single point selection at Louisiana coast](Figure_S3_NASA_POWER_single_point.png)
+![Figure S3 Nasa Power website home page with single point selection at Louisiana coast](../Figure%20S3%20Nasa%20Power%20website%20home%20page%20with%20single%20point%20selection%20at%20Louisiana%20coast.jpg)
 
 #### Sea surface height
 Navigate to the NASA Sea Level Change Data Analysis Tool (DAT) website URL: Data Analysis Tool – NASA Sea Level Change Portal. Then, click launch as shown in Figure S4.
 
-![Figure S4 Home page of Nasa Sea Level Change Date Analysis Tool](Figure_S4_NASA_Sea_Level_Change_DAT.png)
+![Figure S4 Home page of Nasa Sea Level Change Date Analysis Tool](../Figure%20S4%20Home%20page%20of%20Nasa%20Sea%20Level%20Change%20Date%20Analysis%20Tool.jpg)
 
 After clicking launch, select Sea surface height  (ECCO v4r4) and select the point or boundary and select the start and end date. Then, click create chart, then it will show like in Figure S5. Then, click download from the chart to download the sea surface height data for required position of required date range.
 
-![Figure S5 Sea surface height chart from which data is downloaded.](Figure_S5_Sea_Surface_Height_Chart.png)
+![Figure S5 Sea surface height chart from which data is downloaded.](../Figure%20S5%20Sea%20surface%20height%20chart%20from%20which%20data%20is%20downloaded.jpg)
 
 ### British Columbia and Southeast England
 #### Precipitation, Minimum Temperature at 2 meters, and Solar Radiation
 Navigate to the Nasa Power website URL: NASA POWER | Data Access Viewer (DAV). From this website, the required solar radiation, precipitation, and minimum temperature at 2 meters can be downloaded. The home page with selection is shown in Figure S6.
 
-![Figure S6 Nasa Power website home page with single point selection at Louisiana coast](Figure_S6_NASA_POWER_single_point.png)
+![Figure S6 Nasa Power website home page with single point selection at Louisiana coast](../Figure%20S6%20Nasa%20Power%20website%20home%20page%20with%20single%20point%20selection.jpg)
 
 #### Sea surface height
 Navigate to the permanent service for mean sea level website URL: Permanent Service for Mean Sea Level (PSMSL). Figure S7 is the home page of PSMSL. Click on the word map it will lead to the Figure S8 from where we can select the needed station and download the monthly sea surface height. 
 
-![Figure S7 PSMSL home page.](Figure_S7_PSMSL_homepage.png)
+![Figure S7 PSMSL home page.](../Figure%20S7%20PSMSL%20home%20page.jpg)
 
-![Figure S8 Campbell River station details and from monthly data button monthly sea surface height can be downloaded.](Figure_S8_Campbell_River_station_details.png)
+![Figure S8 Campbell River station details and from monthly data button monthly sea surface height can be downloaded.](../Figure%20S8%20Campbell%20River%20station%20details%20and%20from%20monthly%20data%20button%20monthly%20sea%20surface%20height%20can%20be%20downloaded.jpg)
 
 ### Data Processing
 The daily minimum temperature and daily solar radiation data were converted into a moving ten-day average. From these ten-day averages, monthly minimum values for temperature and solar radiation were generated. These monthly minimum values were then used to obtain the minimum value for the winter season (November to April) of a specific year. For precipitation, a five-day moving sum was calculated, from which the maximum monthly values were derived. These maximum monthly precipitations were then employed to determine the maximum seasonal precipitation for the winter season of a specific year. For sea surface height data, the original data were in monthly intervals. These monthly data were directly used to calculate the seasonal maximum sea surface height for the winter season of a specific year. This process was repeated for all the available years of data. In the end, the current study used seasonal maximum or minimum time series data for all the considered climatic factors including solar radiation, sea surface height, minimum temperature, and precipitation. 
@@ -127,7 +127,7 @@ The analysis was conducted in Python (version 3.11). The required packages and t
 
 ### Example results
 
-![Figure S9 Ten-day moving average seasonal minimum temperature trend at Louisiana coast.](Figure_S9_TMIN_trend_LA_coast.png)
+![Figure S9 Ten-day moving average seasonal minimum temperature trend at Louisiana coast.](../Figure%20S9%20Ten-day%20moving%20average%20seasonal%20minimum%20temperature%20trend%20at%20Louisiana%20coast.tiff)
 
 For all other study areas climatic factors and outbreak data, above python code can be used changing the excel file name but make sure it contains dataset includes two primary columns: Year (the year of observation) and Winter (the minimum temperature in degrees Celsius for the winter season). In this way, using this manual the trend of the climatic factors and outbreak data can be studied. 
 
