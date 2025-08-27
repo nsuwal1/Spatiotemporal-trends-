@@ -1,4 +1,5 @@
 # Spatiotemporal-trends
 Data and code.
 <br>
-Author - Naresh Suwal
+Author - Naresh Suwal, Zhiqiang Deng
+
