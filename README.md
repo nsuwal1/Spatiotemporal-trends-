@@ -11,12 +11,12 @@ Department of Civil and Environmental Engineering, Louisiana State University, B
 ## Supplementary User Manual for Statistical Analysis
 
 ### Data Collection
-The oyster norovirus outbreak data were collected from the US Centers for Disease Control and Prevention (CDC), the UK Health Security Agency (UKHSA), the Food Standards Agency (FSA), the Public Health Agency of Canada (PHAC), and the National Public Health Emergency Event Surveillance System (PHEESS). The data for climatic factors were collected from different online sources. Sea surface height for Louisiana coast is downloaded from Estimating the Circulation and Climate of the Ocean (ECCO) data repository. This dataset provides monthly-averaged dynamic sea surface height fields derived from the ECCO Version 4 Release 4 (V4r4) ocean and sea-ice state estimate for the period 1992–2018. The minimum water temperature data for Louisiana coast were downloaded from the National Water Information System (NWIS) mapper (Water Resources, U.S). The data for precipitation, all-sky surface shortwave downward irradiance (MJ/m2/day), and minimum temperature at 2 meters were downloaded from the NASA (National Aeronautics and Space Administration) Power data access viewer (NASA Power). The sea surface height data for British Columbia and Southeast England were collected from permanent service for mean sea level (PSMSL).
+he oyster norovirus outbreak data were collected from the US Centers for Disease Control and Prevention (CDC), the UK Health Security Agency (UKHSA), the Food Standards Agency (FSA), the Public Health Agency of Canada (PHAC), and the National Public Health Emergency Event Surveillance System (PHEESS). The data for climatic factors were collected from different online sources. Sea surface height for the Louisiana coast was downloaded from the Estimating the Circulation and Climate of the Ocean (ECCO) data repository. This dataset provides monthly-averaged dynamic sea surface height fields derived from the ECCO Version 4 Release 4 (V4r4) ocean and sea-ice state estimate for the period 1992–2018. The minimum water temperature data for the Louisiana coast were downloaded from the National Water Information System (NWIS) mapper (U.S. Water Resources). The data for precipitation, all-sky surface shortwave downward irradiance (MJ/m2/day), and minimum temperature at 2 meters were downloaded from the NASA (National Aeronautics and Space Administration) Power data access viewer (NASA Power). The sea surface height data for British Columbia and Southeast England were collected from the Permanent Service for Mean Sea Level (PSMSL).
 
 ### Louisiana Coast
 #### Water temperature
 
-Navigate to the USGS website URL: [Water Resources of the United States—National Water Information System (NWIS) Mapper](https://waterdata.usgs.gov/nwis). This is the primary source for downloading the necessary insitu data such as water temperature, gage height, discharge, and many other for United States. The present study used USGS station number 07374526 for representative water temperature for Louisiana coast. 
+Navigate to the USGS website URL: [Water Resources of the United States—National Water Information System (NWIS) Mapper](https://waterdata.usgs.gov/nwis).  This is the primary source for downloading the necessary in situ data such as water temperature, gauge height, discharge, and many others for the United States. The present study used USGS station number 07374526 as representative water temperature for the Louisiana coast.
 
 
 ![Figure S1 USGS website home page](Figure%20S1%20USGS%20website%20home%20page.png)
@@ -44,7 +44,8 @@ Navigate to the NASA Sea Level Change Data Analysis Tool (DAT) website URL: [Dat
 ![Figure S4 Home page of Nasa Sea Level Change Date Analysis Tool](Figure%20S4%20Home%20page%20of%20Nasa%20Sea%20Level%20Change%20Date%20Analysis%20Tool.png)
 _Figure S4 Home page of Nasa Sea Level Change Date Analysis Tool_
 
-After clicking launch, select Sea surface height  (ECCO v4r4) and select the point or boundary and select the start and end date. Then, click create chart, then it will show like in Figure S5. Then, click download from the chart to download the sea surface height data for required position of required date range.
+After clicking launch, select Sea surface height (ECCO v4r4) and select the point or boundary, then select the start and end dates. Then, click "create chart," and it will show the results like in Figure S5. Finally, click "download" from the chart to download the sea surface height data for the required position and required date range.
+
 
 
 ![Figure S5 Sea surface height chart from which data is downloaded.](Figure%20S5%20Sea%20surface%20height%20chart%20from%20which%20data%20is%20downloaded.png)
@@ -150,5 +151,5 @@ The analysis was conducted in Python (version 3.11). The required packages and t
 ![Figure S9 Ten-day moving average seasonal minimum temperature trend at Louisiana coast.](Figure%20S9%20Ten-day%20moving%20average%20seasonal%20minimum%20temperature%20trend%20at%20Louisiana%20coast.png)
 _Figure S9 Ten-day moving average seasonal minimum temperature trend at Louisiana coast_
 
-For all other study areas climatic factors and outbreak data, above python code can be used changing the excel file name but make sure it contains dataset includes two primary columns: Year (the year of observation) and Winter (the minimum temperature in degrees Celsius for the winter season). In this way, using this manual the trend of the climatic factors and outbreak data can be studied. 
+ For all other study areas' climatic factors and outbreak data, the above python code can be used by changing the excel file name, but make sure it contains a dataset that includes two primary columns: Year (the year of observation) and Winter (the minimum temperature in degrees Celsius for the winter season). In this way, using this manual, the trends of the climatic factors and outbreak data can be studied.
 
