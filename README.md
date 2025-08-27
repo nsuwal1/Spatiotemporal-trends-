@@ -68,8 +68,8 @@ Navigate to the permanent service for mean sea level website URL: [Permanent Ser
 _Figure S7 PSMSL home page_
 
 
-![Figure S8 Campbell River station details and from monthly data button monthly sea surface height can be downloaded.](Figure%20S8%20Campbell%20River%20station%20details%20and%20from%20monthly%20data%20button%20monthly%20sea%20surface%20height%20can%20be%20downloaded.png)
-_Figure S8 Campbell River station details and from monthly data button monthly sea surface height can be downloaded_
+![Figure S8 Campbell River station details and from monthly data button monthly sea surface height.](Figure%20S8%20Campbell%20River%20station%20details%20and%20from%20monthly%20data%20button%20monthly%20sea%20surface%20height%20can%20be%20downloaded.png)
+_Figure S8 Campbell River station details and from monthly data button monthly sea surface height_
 
 ### Data Processing
 The daily minimum temperature and daily solar radiation data were converted into a moving ten-day average. From these ten-day averages, monthly minimum values for temperature and solar radiation were generated. These monthly minimum values were then used to obtain the minimum value for the winter season (November to April) of a specific year. For precipitation, a five-day moving sum was calculated, from which the maximum monthly values were derived. These maximum monthly precipitations were then employed to determine the maximum seasonal precipitation for the winter season of a specific year. For sea surface height data, the original data were in monthly intervals. These monthly data were directly used to calculate the seasonal maximum sea surface height for the winter season of a specific year. This process was repeated for all the available years of data. In the end, the current study used seasonal maximum or minimum time series data for all the considered climatic factors including solar radiation, sea surface height, minimum temperature, and precipitation. 
