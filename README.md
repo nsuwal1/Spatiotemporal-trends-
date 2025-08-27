@@ -4,7 +4,7 @@
 **Naresh Suwal, Zhiqiang Deng\***
 
 Department of Civil and Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana 70803, USA  
-*Corresponding author: E-mail address: zdeng@lsu.edu (Z. Deng); nsuwal1@lsu.edu (N. Suwal)*
+**Corresponding author: E-mail address: zdeng@lsu.edu (Z. Deng); nsuwal1@lsu.edu (N. Suwal)*
 
 ---
 
@@ -15,7 +15,8 @@ The oyster norovirus outbreak data were collected from the US Centers for Diseas
 
 ### Louisiana Coast
 #### Water temperature
-Navigate to the USGS website URL: Water Resources of the United States—National Water Information System (NWIS) Mapper. This is the primary source for downloading the necessary insitu data such as water temperature, gage height, discharge, and many other for United States. The present study used USGS station number 07374526 for representative water temperature for Louisiana coast. 
+
+Navigate to the USGS website URL: [Water Resources of the United States—National Water Information System (NWIS) Mapper](https://waterdata.usgs.gov/nwis). This is the primary source for downloading the necessary insitu data such as water temperature, gage height, discharge, and many other for United States. The present study used USGS station number 07374526 for representative water temperature for Louisiana coast. 
 
 
 ![Figure S1 USGS website home page](Figure%20S1%20USGS%20website%20home%20page.png)
@@ -28,14 +29,16 @@ At home page of USGS website enter the site numbers and click enter, then it wil
 _Figure S2 Station details with available data range_
 
 #### Precipitation and Solar Radiation
-Navigate to the Nasa Power website URL: NASA POWER | Data Access Viewer (DAV). From this website, the required solar radiation and precipitation can be downloaded. 
+
+Navigate to the Nasa Power website URL: [NASA POWER | Data Access Viewer (DAV)](https://power.larc.nasa.gov/data-access-viewer/). From this website, the required solar radiation and precipitation can be downloaded. 
 
 
 ![Figure S3 Nasa Power website home page with single point selection at Louisiana coast](Figure%20S3%20Nasa%20Power%20website%20home%20page%20with%20single%20point%20selection%20at%20Louisiana%20coast.png)
 _Figure S3 Nasa Power website home page with single point selection at Louisiana coast_
 
 #### Sea surface height
-Navigate to the NASA Sea Level Change Data Analysis Tool (DAT) website URL: Data Analysis Tool – NASA Sea Level Change Portal. Then, click launch as shown in Figure S4.
+
+Navigate to the NASA Sea Level Change Data Analysis Tool (DAT) website URL: [Data Analysis Tool – NASA Sea Level Change Portal](https://sealevel.nasa.gov/data/data-analysis-tool). Then, click launch as shown in Figure S4.
 
 
 ![Figure S4 Home page of Nasa Sea Level Change Date Analysis Tool](Figure%20S4%20Home%20page%20of%20Nasa%20Sea%20Level%20Change%20Date%20Analysis%20Tool.png)
@@ -49,14 +52,16 @@ _Figure S5 Sea surface height chart from which data is downloaded_
 
 ### British Columbia and Southeast England
 #### Precipitation, Minimum Temperature at 2 meters, and Solar Radiation
-Navigate to the Nasa Power website URL: NASA POWER | Data Access Viewer (DAV). From this website, the required solar radiation, precipitation, and minimum temperature at 2 meters can be downloaded. The home page with selection is shown in Figure S6.
+
+Navigate to the Nasa Power website URL: [NASA POWER | Data Access Viewer (DAV)](https://power.larc.nasa.gov/data-access-viewer/). From this website, the required solar radiation, precipitation, and minimum temperature at 2 meters can be downloaded. The home page with selection is shown in Figure S6.
 
 
 ![Figure S6 Nasa Power website home page with single point selection at Louisiana coast](Figure%20S6%20Nasa%20Power%20website%20home%20page%20with%20single%20point%20selection.png)
 _Figure S6 Nasa Power website home page with single point selection at Louisiana coast_
 
 #### Sea surface height
-Navigate to the permanent service for mean sea level website URL: Permanent Service for Mean Sea Level (PSMSL). Figure S7 is the home page of PSMSL. Click on the word map it will lead to the Figure S8 from where we can select the needed station and download the monthly sea surface height. 
+
+Navigate to the permanent service for mean sea level website URL: [Permanent Service for Mean Sea Level (PSMSL)](https://www.psmsl.org/). Figure S7 is the home page of PSMSL. Click on the word map it will lead to the Figure S8 from where we can select the needed station and download the monthly sea surface height. 
 
 
 ![Figure S7 PSMSL home page.](Figure%20S7%20PSMSL%20home%20page.png)
